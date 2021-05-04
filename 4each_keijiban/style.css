@@ -1,0 +1,147 @@
+.menu { background-color: black;
+    width: 100%;
+    height: 40px;
+    
+}
+
+.menu li {
+    float: left;
+    list-style: none;
+    line-height: 40px;
+    padding-right: 35px;
+    color: white;
+    font-family:monospace;
+    
+    
+    
+}
+
+
+
+.right {
+    float: left;
+    width: 30%;
+    height: 1500px;
+
+   
+}
+
+
+.left {float: left;
+    width: 70%;
+    height: 1500px;
+    margin-bottom: 40px;
+   
+}
+
+
+
+.ab li{padding: 5px;
+    list-style: none;
+    font-size: 15px
+    
+}
+
+h1 {
+    border-left: 2px solid black;
+    border-bottom: 2px solid gray;
+    font-size: 25pt;
+    margin: 2px
+        
+}
+
+
+form div{
+    padding: 15px;
+}
+
+h2{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-left:4px red solid;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 20px;
+    
+    
+}
+
+form{margin: 10px;
+    background-color: #fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+    font-family:"メイリオ",sans-serif;
+    
+    
+    
+}
+
+.submit{border: 1pxbsolid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+    
+}
+
+.kiji{margin: 10px;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    background-color: #fbfbfb;
+    font-family:"メイリオ",sans-serif;
+    
+    
+    
+   }
+
+.kiji h3{
+    border-bottom: solid 2px lightgray;
+
+}
+.contents{
+    margin: 5px;
+    padding-bottom: 5px;
+}
+.handlename{
+    font-size: 12px;
+}
+    
+
+
+
+h4{
+    margin-left: 30px;
+    border-bottom: 2px dotted gray;
+}
+
+html,body{
+    height:100%;
+    margin: 0;
+}
+
+.wrapper{
+    min-height:  100%;
+    margin-bottom: -40px;
+    
+}
+    
+
+footer,.push {clear: left;
+    width: 100%;
+    height: 40px;
+    left: 0px; 
+    position: absolute;
+    bottom: 0;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 40px;
+    font-family: monospace;
+    
+   
+    
+}
